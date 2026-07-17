@@ -24,7 +24,6 @@
 - 🌍 Web Security
 - 🐧 Linux
 - 🖥️ Windows Server
-- ⚡ Active Directory
 - 🐍 Python
 
 ---
