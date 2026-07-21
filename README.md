@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Yousef Ramadan
 
-### Penetration Tester • Cybersecurity • Computer Science Student
+### Penetration Tester • Cybersecurity 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester;Cybersecurity;Linux;Python;Network+Security;Web+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Penetration+Tester;Cybersecurity;Network+Security;Web+Security" />
 
 <br>
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Yousef Ramadan Banner">
+  <img src="./banner.gif" width="100%" alt="Yousef Ramadan Banner">
 </p>
 
 </div>
