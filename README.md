@@ -97,11 +97,11 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/yusuf-samra-010b9534a">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://https://github.com/YusufSamra">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
