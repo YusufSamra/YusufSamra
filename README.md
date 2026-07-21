@@ -101,7 +101,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://https://github.com/YusufSamra">
+<a href="https://github.com/YusufSamra">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
