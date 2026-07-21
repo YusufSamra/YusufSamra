@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousef Ramadan
+#  I'm Yousef Ramadan
 
 ### Penetration Tester • Cybersecurity 
 
